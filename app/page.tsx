@@ -3,7 +3,7 @@ export default function Home() {
     <div>
       nextjs
       aaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaa
-      aaaaaaaaaaaaaaaaaaaaaa
+      aaaaaaaaaaaaaaaaaaaaaa ccccccccccccccccccccccccccc
     </div>
   );
 }
